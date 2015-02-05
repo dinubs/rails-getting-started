@@ -1,6 +1,5 @@
-# Getting Started With Ruby on Rails
+# Getting Started With Radcircle Development
 
----
 
 ### Learning
 
@@ -20,4 +19,11 @@
 **Environment**
 
 * [Vagrant](https://www.vagrantup.com/) - Please use this so we don't run into any errors with people not being able to add to Radcircle. Directions on installing can be found in the Radcircle Development Repo on Github.
-* [Ruby on Rails]()
+* [Ruby on Rails](http://rubyonrails.org/)
+
+**Development**
+
+* [Ruby on Rails](http://rubyonrails.org/)
+* [Slim Templating Engine](http://slim-lang.com/) - Please read up on slim, as it's what we use for development, and keeps the code looking cleaner. If you have trouble finding resources, Jade templating engine is similar.
+* [Sass](http://sass-lang.com/)
+* 
