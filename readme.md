@@ -8,6 +8,7 @@
 * [Codecademy](http://www.codecademy.com) - Ruby and Ruby on Rails
 * [Code School - Ruby Course](https://www.codeschool.com/paths/ruby) - Ruby and some Ruby on Rails
 * [Team Treehouse](http://www.teamtreehouse.com) - Ruby on Rails (must have account, but there is a 14 day free trial)
+* [Go Rails](https://gorails.com/) - Free rails screencasts, very helpful, especially the early ones
 
 **Books**
 
